@@ -2,32 +2,7 @@
 # 🧑‍💻 DSA Prep Repository
 
 A curated, topic‑organized collection of Python solutions for LeetCode (and other practice platforms). Every file follows a standardized template—complete with complexity analysis and implementation remarks—to make learning, reviewing, and sharing algorithms effortless.
-
----
-
-## 📁 Project Structure
 ```
-
-├── Arrays & Hashing
-│ ├── 01_TwoPointer.py
-│ ├── 13_TapWater.py
-│ ├── 15_Three_Sum.py
-│ ├── 33_Search_Rotated_Sorted_Array.py
-│ ├── 123_StockSellBest.py
-│ ├── 167_TwoPointer.py
-│ ├── 217_Contains_Duplicate.py
-│ └── 238_Product_Of_Array.py
-├── LC_150
-│ ├── 27_Remove_Element.py
-│ └── 88_Merge_Sorted_Array.py
-├── LinkedList
-│ └── 206_reverse_linkedList.py
-├── TwoPointer
-│ └── isValidPalindrome.py
-├── DSA_Prep.md
-└── README.md
-
-````
 
 ---
 
@@ -43,7 +18,7 @@ Time Complexity :
 Space Complexity :
 Remarks:
 """
-````
+```
 
 ---
 
